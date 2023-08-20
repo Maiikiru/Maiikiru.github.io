@@ -28,7 +28,7 @@ March 2022 - Aug 2022
 - The app was written in Android Studio, utilizing API calls, and designed with color theory and design principles.
 
 ### Computer Science Tutor - Kennesaw State University
-Jan 2022 - Dec 2023
+Jan 2022 - Dec 2022
 - Helped all students from freshman to juniors learn the fundamentals of programming such as OOP, data structures, simple algorithms, algorithmic thinking, and Graphical User Interfaces.
 
 ---
