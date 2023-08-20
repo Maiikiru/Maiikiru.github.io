@@ -37,4 +37,4 @@ Jan 2022 - Dec 2022
 ### Georgia Institute of Technology, Atlanta, Georgia
 Dec 2023 - Present
 ### Kennesaw State University, Kennesaw, Georgia
-July 2020 - Dec 2023
+July 2020 - Dec 2022
